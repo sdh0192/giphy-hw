@@ -1,7 +1,7 @@
 button {
     background-color: silver;
     color: royalblue;
-    margin: 0 20px 0 20px;
+    margin: 20px 20px 0 20px;
     font-family: 'Charmonman', cursive;
     font-size: 25px;
     border: 3px solid black;
@@ -40,4 +40,17 @@ h2 {
 
 #gif-container {
     clear: both;
+    width: 90%;
+
+   
+}
+
+.single-gif {
+    float: left;
+    margin: 6px 6px 6px 6px;
+}
+
+
+.gif-border {
+    border-right: 2px solid black;
 }
